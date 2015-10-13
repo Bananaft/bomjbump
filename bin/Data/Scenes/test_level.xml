@@ -43,7 +43,7 @@
 	<node id="16777220">
 		<attribute name="Is Enabled" value="true" />
 		<attribute name="Name" value="" />
-		<attribute name="Position" value="-18.7811 2.15495 -3.55021" />
+		<attribute name="Position" value="-19.193 1.24943 -5.05021" />
 		<attribute name="Rotation" value="1 0 0 0" />
 		<attribute name="Scale" value="1 1 1" />
 		<attribute name="Variables" />
@@ -57,7 +57,7 @@
 	<node id="16777221">
 		<attribute name="Is Enabled" value="true" />
 		<attribute name="Name" value="" />
-		<attribute name="Position" value="-8.2811 1.65495 -0.55021" />
+		<attribute name="Position" value="-10.6341 2.80845 -5.9906" />
 		<attribute name="Rotation" value="1 0 0 0" />
 		<attribute name="Scale" value="1 1 1" />
 		<attribute name="Variables" />
